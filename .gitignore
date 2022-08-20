@@ -1,0 +1,8 @@
+// NODE
+node_modules
+.env
+
+// CYPRESS
+cypress/downloads/*
+cypress/videos/*
+cypress/screenshots/*

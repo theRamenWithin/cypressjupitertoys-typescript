@@ -1,0 +1,16 @@
+{
+  "success": {
+    "submit": {
+      "message": "Thanks Alex, we appreciate your feedback"
+    }
+  },
+  "errors": {
+    "input": {
+      "validation": {
+        "forename": "Forename is required.",
+        "email": "Email is required.",
+        "message": "Message is required."
+      }
+    }
+  }
+}
